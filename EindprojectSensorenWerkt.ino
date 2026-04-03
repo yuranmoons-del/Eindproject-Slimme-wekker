@@ -2,8 +2,6 @@
 #define BLYNK_TEMPLATE_NAME "Eindproject"
 #define BLYNK_AUTH_TOKEN "EW_BXPL3qtj6aQj5kqeEcNoeogMXmtme"
 
-
-
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>
