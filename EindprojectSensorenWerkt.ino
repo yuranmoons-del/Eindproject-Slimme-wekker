@@ -2,8 +2,8 @@
 #define BLYNK_TEMPLATE_NAME "Eindproject"
 #define BLYNK_AUTH_TOKEN "EW_BXPL3qtj6aQj5kqeEcNoeogMXmtme"
 
-char ssid[] = "GOODWIFI";
-char pass[] = "niftyorchestra791";
+char ssid[] = "embed";
+char pass[] = "weareincontrol";
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
